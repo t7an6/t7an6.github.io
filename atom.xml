@@ -6,7 +6,7 @@
   <link href="https://www.example.com/atom.xml" rel="self"/>
   
   <link href="https://www.example.com/"/>
-  <updated>2025-08-25T06:05:00.925Z</updated>
+  <updated>2025-08-30T16:27:09.940Z</updated>
   <id>https://www.example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>热烈庆祝开了个新坑</title>
+    <link href="https://www.example.com/poster/"/>
+    <id>https://www.example.com/poster/</id>
+    <published>2025-08-30T16:10:42.000Z</published>
+    <updated>2025-08-30T16:27:09.940Z</updated>
+    
+    <content type="html"><![CDATA[<p>搞个博客搞了大半夜，想来自己这快两年的大学生涯，也是一事无成吧 T_T。也是有种预感<br>，感觉要考研了，为了督促自己也是突然想写点东西了，就开了一个这个专题。如果你看到这个文章，也请原谅我有些地方的无知，毕竟蜀黍我呀，也是玩了两年捏。<br>谢谢你们陪我。<br>ps: 现在这个博客只有我发文章的权利哈哈。还有很多配置没有完成，后续有时间会补上的。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;搞个博客搞了大半夜，想来自己这快两年的大学生涯，也是一事无成吧 T_T。也是有种预感&lt;br&gt;
+，感觉要考研了，为了督促自己也是突然想写点东西了，就开了一个这个专题。如果你看到这个文章，也请原谅我有些地方的无知，毕竟蜀黍我呀，也是玩了两年捏。&lt;br&gt;
+谢谢你们陪我。&lt;br&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="个人杂谈" scheme="https://www.example.com/tags/%E4%B8%AA%E4%BA%BA%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>My New Post</title>
