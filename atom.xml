@@ -6,7 +6,7 @@
   <link href="https://www.example.com/atom.xml" rel="self"/>
   
   <link href="https://www.example.com/"/>
-  <updated>2025-09-16T09:08:39.188Z</updated>
+  <updated>2025-09-16T09:14:48.538Z</updated>
   <id>https://www.example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.example.com/%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95/"/>
     <id>https://www.example.com/%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95/</id>
     <published>2025-09-16T08:27:31.000Z</published>
-    <updated>2025-09-16T09:08:39.188Z</updated>
+    <updated>2025-09-16T09:14:48.538Z</updated>
     
     <content type="html"><![CDATA[<p>在这一节我将开始讲述一些我在学习算法分析时候的体验与想法，以及归纳一些方法。</p><h1 id="前言"><a class="markdownIt-Anchor" href="#前言">#</a> 前言</h1><p>其实在学习这个的时候楼主先看了会回溯算法，感觉这个方法实在暴力，于是就去找学校的课件去了。然后发现了童老师和许老师的课件都是从 merge（分治）开始讲起的。（ps：在这之前的第一节课上老师讲到了最大团问题作为引导，但是楼主道行太浅了，没有理解捏）。</p><h1 id="基本原理"><a class="markdownIt-Anchor" href="#基本原理">#</a> 基本原理</h1><p>这个方法我想用归并排序作为例子。这个排序方法是将一个大数组不断分成小的数组最后合并到一起的算法。<br>由此引出了分治算法的基本原理</p><blockquote><ul><li>选择一个可以复用的方法</li><li>将问题不断划分直至划分到简单形式</li><li>解决问题，然后合并。不断重复此步直到无法重复。</li></ul></blockquote><p>这个方法比较抽象，在划分这上面需要我们自己确定如何划分到最小。并且解决方法也与划分息息相关。并且我在一开始对于 c 语言的合并并不清楚，但是在做了几个题之后才想起来 memcpy 这个函数（os 真是白学了）。而且这里面对于递归的使用比较多，当然也会有非递归的题目（碰上了真是想破头都想不出来）。<br><br>在下面我会列出我写过的一些题目，以及一些方法。不过肯定不如一些大神写的清楚，要想完善自己的体验请移步解答区。<br></p><ul><li><a href="https://leetcode.cn/problems/powx-n/description/">pow(x,n)</a></li><li><a href="https://leetcode.cn/problems/sort-an-array/description/">排序数组</a><blockquote><p>这个题目可以通用一些排序算法，这里我用的归并排序。</p></blockquote></li><li><a href="https://leetcode.cn/problems/majority-element/description/">多数数组</a><br><br><br>ps: 写到这里，楼主要去当码农了。铁五院定时间不守时真难受。</li></ul>]]></content>
     
@@ -36,7 +36,7 @@
     
     
     
-    <category term="算法与分析 c语言" scheme="https://www.example.com/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E5%88%86%E6%9E%90-c%E8%AF%AD%E8%A8%80/"/>
+    <category term="算法与分析&#39;c语言" scheme="https://www.example.com/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E5%88%86%E6%9E%90-c%E8%AF%AD%E8%A8%80/"/>
     
   </entry>
   
